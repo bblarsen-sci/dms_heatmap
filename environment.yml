@@ -1,0 +1,46 @@
+name: brendan
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - altair=5.4.1
+  - baltic
+  - biopython
+  - biotite
+  - entrez-direct
+  - flatdict
+  - git-lfs
+  - great_tables
+  - jupyterlab
+  - mafft
+  - markdown
+  - matplotlib
+  - minimap2
+  - nbstripout
+  - numpy<2 
+  - pandas
+  - papermill
+  - pillow
+  - pip
+  - plotnine
+  - pyarrow
+  - python=3.12
+  - ruamel.yaml=0.17
+  - ruff
+  - seaborn=0.13.2
+  - selenium
+  - snakefmt
+  - snakemake=8.23.0
+  - upsetplot=0.8
+  - vl-convert-python
+  - pip:
+      - alignparse==0.6.2
+      - dms_variants==1.4.3
+      - dmslogo==0.7.0
+      - multidms==0.4
+      - neutcurve==2.1
+      - polyclonal==6.12
+      - httpimport
+
