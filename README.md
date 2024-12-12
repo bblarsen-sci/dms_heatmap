@@ -3,7 +3,7 @@ Create 'wrapped' heatmaps from DMS data using [Altair](https://altair-viz.github
 
 An example of the output:
 
-<img src="./results/e2_entry_heatmap.png">
+<img src="./results/e3_entry_heatmap.png">
 
 ## Download
 
